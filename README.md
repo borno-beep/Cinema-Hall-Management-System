@@ -1,4 +1,5 @@
-#  Cinema Hall Management System
+[Uploading README.md…]()
+# 🎬 Cinema Hall Management System
 
 A full-featured desktop application for cinema hall operations, movie scheduling, dynamic seat reservation, concession food ordering, and revenue reporting.
 
@@ -144,4 +145,3 @@ The database comes pre-loaded with testing accounts for both roles:
 - **Data Access**: ADO.NET (`Microsoft.Data.SqlClient` v5.2.0)
 - **Security**: Salted SHA-256 password hashing (`System.Security.Cryptography`)
 - **Configuration**: `System.Configuration.ConfigurationManager` v8.0.0
-
