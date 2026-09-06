@@ -1,4 +1,4 @@
-# 🎬 Cinema Hall Management System
+#  Cinema Hall Management System
 
 A full-featured desktop application for cinema hall operations, movie scheduling, dynamic seat reservation, concession food ordering, and revenue reporting.
 
